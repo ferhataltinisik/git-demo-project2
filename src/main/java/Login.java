@@ -8,6 +8,7 @@ public class Login {
         System.out.println("sonuc " + sum);
 
         int mult = x*y;
+        System.out.println("sonuc mult" + mult);
 
     }
 
